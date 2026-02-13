@@ -1,0 +1,38 @@
+nome,x_mm,y_mm,z_mm,vol_mm3,Tipo
+Main Plate,-1.579,0.147,-0.644,211234.283,Corpo
+Fix Pixhawk2,-31.874,0.000,17.023,5916.905,Corpo
+Fix SafetySwitch,36.935,-67.847,8.339,2871.521,Corpo
+Fix RC,-24.473,-67.432,17.986,5548.957,Corpo
+Fix Rasp1,81.518,0.056,8.398,763.971,Corpo
+Fix Pixhawk1,29.757,0.000,9.926,4575.648,Corpo
+Fix Telemetry,-1.262,62.324,12.752,5546.079,Corpo
+Fix GPS,-65.381,-0.206,22.429,5317.127,Corpo
+Fix Rasp2,52.605,0.056,8.398,763.971,Corpo
+Pixhawk 2.4.8 (1):1,1.371,0.022,11.801,54615.165,Componente
+RC Receiver:1,-30.257,-61.307,16.458,15559.327,Componente
+Telemetria:1,-38.611,55.623,46.357,26245.491,Componente
+Inferior:1,58.023,0.335,17.943,16487.159,Componente
+Superior:1,73.938,-0.089,24.125,16736.929,Componente
+RaspberryPi 5:1,66.483,0.789,12.509,25945.014,Componente
+ChavetaDir:1,67.142,35.535,7.000,295.492,Componente
+ChavetaEsq:1,67.142,-35.387,7.000,295.492,Componente
+GPS M8N:1,-58.221,-0.019,53.712,21479.154,Componente
+Encaixe Inferior:1,128.976,0.787,24.076,529.108,Componente
+Encaixe Superior:1,128.976,0.000,37.622,529.108,Componente
+DISSIPADOR:1,146.097,-20.355,30.843,192.761,Componente
+Suporte Servo:1,122.127,5.406,7.391,6541.033,Componente
+Arducam:1,126.884,0.003,-17.376,1824.990,Componente
+DISSIPADOR:2,111.855,-21.342,30.843,192.761,Componente
+DISSIPADOR:3,113.162,20.728,30.843,192.761,Componente
+DISSIPADOR:4,145.241,20.382,30.843,192.761,Componente
+SafetySwitch:1,31.107,-62.022,9.714,2846.385,Componente
+Topo,98.420,0.000,39.182,17787.013,Corpo
+M. Francesa Esquerda ,87.382,38.613,16.428,3734.630,Corpo
+M. Francesa Direita ,87.389,-38.605,16.456,3739.575,Corpo
+MG90S:1,123.164,-0.441,6.934,4466.682,Componente
+Frame:1,-0.000,-0.000,-104.340,434884.698,Componente
+Alça Direita:1,-0.524,-45.085,-55.008,53997.876,Componente
+Alça Esquerda:1,-1.024,45.085,-55.008,53997.876,Componente
+Suporte Inferior (Gaveta):1,-22.643,-0.012,-66.961,117886.104,Componente
+Bateria:1,-8.290,-0.000,-56.212,244967.007,Componente
+Voltímetro:1,-94.343,0.050,-56.568,24576.353,Componente
