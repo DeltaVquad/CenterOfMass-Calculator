@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"Eliton Sena",
+	"description":	{
+		"":	"Exporta as coordenadas do Centro de Massa (X, Y, Z) e o Volume dos componentes ou corpos selecionados para um arquivo CSV (componentes_posicao.csv)."
+	},
+	"version":	"1.0.0",
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename":	"ScriptIcon.svg"
+}
