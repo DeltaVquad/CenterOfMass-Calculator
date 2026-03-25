@@ -14,6 +14,9 @@ function att_massas()
         optsM = detectImportOptions(fileMass); optsM.VariableNamingRule = 'preserve';
         T_mass = readtable(fileMass, optsM);
         T_mass.Properties.VariableNames = {'nome', 'massa'};
+        if ~isnumeric(T_mass.massa)
+            T_mass.massa = str2double(string(T_mass.massa));
+        end
         nomes_cadastrados = lower(string(T_mass.nome));
     else
         T_mass = table({}, [], 'VariableNames', {'nome', 'massa'});

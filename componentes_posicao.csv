@@ -1,38 +1,59 @@
 nome,x_mm,y_mm,z_mm,vol_mm3,Tipo
-Main Plate,-1.579,0.147,-0.644,211234.283,Corpo
-Fix Pixhawk2,-31.874,0.000,17.023,5916.905,Corpo
-Fix SafetySwitch,36.935,-67.847,8.339,2871.521,Corpo
-Fix RC,-24.473,-67.432,17.986,5548.957,Corpo
-Fix Rasp1,81.518,0.056,8.398,763.971,Corpo
-Fix Pixhawk1,29.757,0.000,9.926,4575.648,Corpo
-Fix Telemetry,-1.262,62.324,12.752,5546.079,Corpo
-Fix GPS,-65.381,-0.206,22.429,5317.127,Corpo
-Fix Rasp2,52.605,0.056,8.398,763.971,Corpo
-Pixhawk 2.4.8 (1):1,1.371,0.022,11.801,54615.165,Componente
-RC Receiver:1,-30.257,-61.307,16.458,15559.327,Componente
-Telemetria:1,-38.611,55.623,46.357,26245.491,Componente
-Inferior:1,58.023,0.335,17.943,16487.159,Componente
-Superior:1,73.938,-0.089,24.125,16736.929,Componente
-RaspberryPi 5:1,66.483,0.789,12.509,25945.014,Componente
-ChavetaDir:1,67.142,35.535,7.000,295.492,Componente
-ChavetaEsq:1,67.142,-35.387,7.000,295.492,Componente
-GPS M8N:1,-58.221,-0.019,53.712,21479.154,Componente
-Encaixe Inferior:1,128.976,0.787,24.076,529.108,Componente
-Encaixe Superior:1,128.976,0.000,37.622,529.108,Componente
-DISSIPADOR:1,146.097,-20.355,30.843,192.761,Componente
-Suporte Servo:1,122.127,5.406,7.391,6541.033,Componente
-Arducam:1,126.884,0.003,-17.376,1824.990,Componente
-DISSIPADOR:2,111.855,-21.342,30.843,192.761,Componente
-DISSIPADOR:3,113.162,20.728,30.843,192.761,Componente
-DISSIPADOR:4,145.241,20.382,30.843,192.761,Componente
-SafetySwitch:1,31.107,-62.022,9.714,2846.385,Componente
-Topo,98.420,0.000,39.182,17787.013,Corpo
-M. Francesa Esquerda ,87.382,38.613,16.428,3734.630,Corpo
-M. Francesa Direita ,87.389,-38.605,16.456,3739.575,Corpo
-MG90S:1,123.164,-0.441,6.934,4466.682,Componente
-Frame:1,-0.000,-0.000,-104.340,434884.698,Componente
-Alça Direita:1,-0.524,-45.085,-55.008,53997.876,Componente
-Alça Esquerda:1,-1.024,45.085,-55.008,53997.876,Componente
-Suporte Inferior (Gaveta):1,-22.643,-0.012,-66.961,117886.104,Componente
-Bateria:1,-8.290,-0.000,-56.212,244967.007,Componente
-Voltímetro:1,-94.343,0.050,-56.568,24576.353,Componente
+Perna:4,-136.175,-136.137,-114.707,77750.475,Componente
+Braço:4,-121.898,-121.944,-14.693,16522.374,Componente
+Perna:3,-136.137,136.175,-114.707,77750.475,Componente
+Braço:3,-121.944,121.898,-14.693,16522.374,Componente
+Perna:2,136.175,136.137,-114.707,77750.475,Componente
+Braço:2,121.898,121.944,-14.693,16522.374,Componente
+Centro:1,-0.000,-0.000,-9.253,55689.749,Componente
+Perna:1,136.137,-136.175,-114.707,77750.475,Componente
+Braço:1,121.944,-121.898,-14.693,16522.374,Componente
+ESC 40A:4,0.000,0.000,0.000,13218.001,Componente
+ESC 40A:1,0.000,0.000,0.000,13218.001,Componente
+ESC 40A:2,0.000,0.000,0.000,13218.001,Componente
+ESC 40A:3,0.000,0.000,0.000,13218.001,Componente
+PDB:1,-14.095,0.016,-24.275,3972.584,Componente
+Motor CW:2,173.240,173.245,32.564,7234.057,Componente
+Motor CW:1,-173.238,-173.246,32.564,7234.057,Componente
+Motor CCW:2,-173.245,173.240,32.812,7234.057,Componente
+Motor CCW:1,173.245,-173.240,32.812,7234.057,Componente
+Guia:1,-131.386,-119.329,-176.613,91209.125,Componente
+Guia(Espelhar):1,-131.319,119.395,-176.613,91209.125,Componente
+FixPixhawk TE,37.881,23.292,9.643,2387.319,Corpo
+FixPixhawk TD,37.881,-23.292,9.643,2387.319,Corpo
+FixPixhawk BD,-37.460,-24.563,9.443,2600.479,Corpo
+FixPixhawk BE,-37.460,24.563,9.443,2600.479,Corpo
+Presilha4,-58.691,58.689,-16.299,3016.634,Corpo
+Presilha3,-58.690,-58.690,-16.299,3016.431,Corpo
+Presilha2,58.691,-58.689,-16.299,3016.634,Corpo
+Presilha1,58.690,58.690,-16.299,3016.431,Corpo
+Fix Telemetry,0.820,62.195,12.816,6143.697,Corpo
+Fix RC,0.655,-62.159,17.393,6479.841,Corpo
+MainPlate,-2.567,-0.336,-1.123,216060.740,Corpo
+Sustentáculo (Topo),98.222,-0.000,38.686,17672.300,Corpo
+Mão Francesa Esq,87.382,38.613,15.928,3734.630,Corpo
+Mão Francesa Dir,87.389,-38.605,15.956,3739.575,Corpo
+Pixhawk 6C PRO:1,1.031,0.100,8.841,38751.983,Componente
+Telemetria:1,-29.557,56.919,37.711,34293.372,Componente
+RC Receiver:1,-7.518,-62.146,15.979,15516.606,Componente
+PWM Module:1,-75.679,17.977,15.895,8547.603,Componente
+PWM Module(Espelhar):1,-75.698,-17.936,15.595,8547.603,Componente
+GPS M9N:1,-62.107,0.018,150.032,36350.104,Componente
+RPI5 + Case:1,66.236,0.414,16.795,59760.148,Componente
+Antivibração:1,128.774,0.065,27.944,4537.331,Componente
+Gimbal:1,126.880,1.732,-6.211,19665.797,Componente
+Fix GPS+PWM,-75.071,0.058,21.891,17505.224,Corpo
+Alça Direita:1,0.234,-44.873,-55.491,54316.521,Componente
+Alça Esquerda:1,-0.057,45.126,-55.301,55650.527,Componente
+Gaveta:1,20.766,-0.023,-67.631,127410.861,Componente
+Bateria:1,31.069,0.050,-56.212,244967.007,Componente
+Voltímetro:1,-54.984,0.100,-56.568,24576.353,Componente
+Fix Vreg:1,-11.077,0.050,-90.959,5468.024,Componente
+Regulador de Tensão:1,-7.408,-1.597,-91.915,1947.922,Componente
+Fix OpticalFlow:1,70.698,-0.222,-85.915,2074.458,Componente
+OpticalFlow:1,70.340,0.895,-85.205,1193.768,Componente
+Gancho:1,-117.250,0.000,-122.465,90785.418,Componente
+Gaiola:1,-123.610,-5.042,-15.724,125970.092,Componente
+Pistão:1,-137.948,-0.000,-31.175,7441.704,Componente
+Horn:1,-150.194,-3.081,-19.449,1023.755,Componente
+Servo:1,-153.926,-18.249,-18.019,5245.594,Componente
